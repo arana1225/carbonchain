@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/carbonchain/static/css/main.a0649adb.css",
+    "main.js": "/carbonchain/static/js/main.323b103e.js",
+    "static/media/frame4@3x.png": "/carbonchain/static/media/frame4@3x.4408bf2796b5b2f842fe.png",
+    "index.html": "/carbonchain/index.html",
+    "main.a0649adb.css.map": "/carbonchain/static/css/main.a0649adb.css.map",
+    "main.323b103e.js.map": "/carbonchain/static/js/main.323b103e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0649adb.css",
+    "static/js/main.323b103e.js"
+  ]
+}
