@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/carbonchain/static/css/main.5e465750.css",
-    "main.js": "/carbonchain/static/js/main.32ce05ed.js",
+    "main.css": "/carbonchain/static/css/main.8d8f22f2.css",
+    "main.js": "/carbonchain/static/js/main.01be8b1e.js",
     "static/media/frame13@3x.png": "/carbonchain/static/media/frame13@3x.6fef0a4ca643fcf11641.png",
     "index.html": "/carbonchain/index.html",
-    "main.5e465750.css.map": "/carbonchain/static/css/main.5e465750.css.map",
-    "main.32ce05ed.js.map": "/carbonchain/static/js/main.32ce05ed.js.map"
+    "main.8d8f22f2.css.map": "/carbonchain/static/css/main.8d8f22f2.css.map",
+    "main.01be8b1e.js.map": "/carbonchain/static/js/main.01be8b1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e465750.css",
-    "static/js/main.32ce05ed.js"
+    "static/css/main.8d8f22f2.css",
+    "static/js/main.01be8b1e.js"
   ]
 }
